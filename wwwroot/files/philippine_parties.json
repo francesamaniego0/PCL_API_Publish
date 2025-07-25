@@ -1,0 +1,622 @@
+[
+  {
+    "abbreviation": "4Ps",
+    "name": "Pagtibayin at Palaguin ang Pangkabuhayang Pilipino"
+  },
+  {
+    "abbreviation": "PPP",
+    "name": "Pagtibayin at Palaguin ang Pangkabuhayang Pilipino (PPP variation)"
+  },
+  {
+    "abbreviation": "FPJ Panday Bayanihan",
+    "name": "FPJ Panday Bayanihan Party‑list"
+  },
+  {
+    "abbreviation": "Kabataan",
+    "name": "Kabataan Party‑list"
+  },
+  {
+    "abbreviation": "Duterte Youth",
+    "name": "Duterte Youth Party‑list"
+  },
+  {
+    "abbreviation": "ML",
+    "name": "Mamamayang Liberal"
+  },
+  {
+    "abbreviation": "PBBM",
+    "name": "Pangulo BBM Party‑list"
+  },
+  {
+    "abbreviation": "P3PWD",
+    "name": "Persons With Disabilities Party‑list"
+  },
+  {
+    "abbreviation": "Murang Kuryente",
+    "name": "Murang Kuryente Party‑list"
+  },
+  {
+    "abbreviation": "Bicol Saro",
+    "name": "Bicol Saro Party‑list"
+  },
+  {
+    "abbreviation": "Ipatupad",
+    "name": "Ipatupad Party‑list"
+  },
+  {
+    "abbreviation": "PATROL",
+    "name": "PATROL Party‑list"
+  },
+  {
+    "abbreviation": "Juan PINOY",
+    "name": "Juan PINOY Party‑list"
+  },
+  {
+    "abbreviation": "ARTE",
+    "name": "ARTE Party‑list"
+  },
+  {
+    "abbreviation": "WIFI",
+    "name": "WIFI Party‑list"
+  },
+  {
+    "abbreviation": "MAAGAP",
+    "name": "MAAGAP Party‑list"
+  },
+  {
+    "abbreviation": "United Senior Citizens",
+    "name": "United Senior Citizens Party‑list"
+  },
+  {
+    "abbreviation": "Epanaw Sambayanan",
+    "name": "Epanaw Sambayanan Party‑list"
+  },
+  {
+    "abbreviation": "Ako Padayon",
+    "name": "Ako Padayon Party‑list"
+  },
+  {
+    "abbreviation": "TUCP",
+    "name": "Trade Union Congress Party‑list"
+  },
+  {
+    "abbreviation": "ACT Teachers",
+    "name": "ACT Teachers Party‑list"
+  },
+  {
+    "abbreviation": "1PACMAN",
+    "name": "1PACMAN Party‑list"
+  },
+  {
+    "abbreviation": "TGP",
+    "name": "TGP Party‑list"
+  },
+  {
+    "abbreviation": "DUMPER PTDA",
+    "name": "DUMPER PTDA Party‑list"
+  },
+  {
+    "abbreviation": "Anakalusugan",
+    "name": "Anakalusugan Party‑list"
+  },
+  {
+    "abbreviation": "Aksyon Dapat",
+    "name": "Aksyon Dapat Party‑list"
+  },
+  {
+    "abbreviation": "BHW",
+    "name": "Barangay Health Workers Party‑list"
+  },
+  {
+    "abbreviation": "Sulong Dignidad",
+    "name": "Sulong Dignidad Party‑list"
+  },
+  {
+    "abbreviation": "Batang Quiapo",
+    "name": "Batang Quiapo Party‑list"
+  },
+  {
+    "abbreviation": "PBA",
+    "name": "PBA Party‑list"
+  },
+  {
+    "abbreviation": "GILAS",
+    "name": "GILAS Party‑list"
+  },
+  {
+    "abbreviation": "Ako Ilokano Ako",
+    "name": "Ako Ilokano Ako Party‑list"
+  },
+  {
+    "abbreviation": "Pamilyang Magsasaka",
+    "name": "Pamilyang Magsasaka Party‑list"
+  },
+  {
+    "abbreviation": "Click Party",
+    "name": "Click Party‑list"
+  },
+  {
+    "abbreviation": "Abante Bisdak",
+    "name": "Abante Bisdak Party‑list"
+  },
+  {
+    "abbreviation": "Manila Teachers",
+    "name": "Manila Teachers Party‑list"
+  },
+  {
+    "abbreviation": "PAMANA",
+    "name": "PAMANA Party‑list"
+  },
+  {
+    "abbreviation": "Nanay",
+    "name": "Nanay Party‑list"
+  },
+  {
+    "abbreviation": "KM Ngayon Na",
+    "name": "KM Ngayon Na Party‑list"
+  },
+  {
+    "abbreviation": "Babae Ako",
+    "name": "Babae Ako Party‑list"
+  },
+  {
+    "abbreviation": "ARISE",
+    "name": "ARISE Party‑list"
+  },
+  {
+    "abbreviation": "Magdalo",
+    "name": "Magdalo Party‑list"
+  },
+  {
+    "abbreviation": "APEC",
+    "name": "APEC Party‑list"
+  },
+  {
+    "abbreviation": "MAGBUBUKID",
+    "name": "Magbubukid Party‑list"
+  },
+  {
+    "abbreviation": "SSS-GSIS Pensyonado",
+    "name": "SSS-GSIS Pensyonado Party‑list"
+  },
+  {
+    "abbreviation": "GABRIELA",
+    "name": "Gabriela Women’s Party"
+  },
+  {
+    "abbreviation": "Tingog",
+    "name": "Tingog Party‑list"
+  },
+  {
+    "abbreviation": "APAT-DAPAT",
+    "name": "Apat-Dapat Party‑list"
+  },
+  {
+    "abbreviation": "Ahon Mahirap",
+    "name": "Ahon Mahirap Party‑list"
+  },
+  {
+    "abbreviation": "UGB",
+    "name": "UGB Party‑list"
+  },
+  {
+    "abbreviation": "Akbayan",
+    "name": "Akbayan Citizens’ Action Party"
+  },
+  {
+    "abbreviation": "Agimat",
+    "name": "Agimat Party‑list"
+  },
+  {
+    "abbreviation": "PHILRECA",
+    "name": "Philippine Rural Electric Cooperatives Association Party‑list"
+  },
+  {
+    "abbreviation": "Kapuso PM",
+    "name": "Kapuso PM Party‑list"
+  },
+  {
+    "abbreviation": "Ilocano Defenders",
+    "name": "Ilocano Defenders Party‑list"
+  },
+  {
+    "abbreviation": "1-Rider",
+    "name": "1‑Rider Party‑list"
+  },
+  {
+    "abbreviation": "TICTOK",
+    "name": "TICTOK Party‑list"
+  },
+  {
+    "abbreviation": "Bayan Muna",
+    "name": "Bayan Muna Party‑list"
+  },
+  {
+    "abbreviation": "Ang Probinsyano",
+    "name": "Ang Probinsyano Party‑list"
+  },
+  {
+    "abbreviation": "BANAT",
+    "name": "BANAT Party‑list"
+  },
+  {
+    "abbreviation": "SBP",
+    "name": "SBP Party‑list"
+  },
+  {
+    "abbreviation": "Buhay",
+    "name": "Buhay Party‑list"
+  },
+  {
+    "abbreviation": "Tulungan Tayo",
+    "name": "Tulungan Tayo Party‑list"
+  },
+  {
+    "abbreviation": "SAGIP",
+    "name": "SAGIP Party‑list"
+  },
+  {
+    "abbreviation": "BTS Bayaning Tsuper",
+    "name": "BTS Bayaning Tsuper Party‑list"
+  },
+  {
+    "abbreviation": "Vendors",
+    "name": "Vendors Samahan ng mga Maninindang Pilipino"
+  },
+  {
+    "abbreviation": "ACT-CIS",
+    "name": "Anti‑Crime and Terrorism CIS Party‑list"
+  },
+  {
+    "abbreviation": "Aktibong Kaagapay",
+    "name": "Aktibong Kaagapay Party‑list"
+  },
+  {
+    "abbreviation": "Asenso Pinoy",
+    "name": "Asenso Pinoy Party‑list"
+  },
+  {
+    "abbreviation": "Solo Parents",
+    "name": "Solo Parents Party‑list"
+  },
+  {
+    "abbreviation": "Ang Komadrona",
+    "name": "Ang Komadrona Party‑list"
+  },
+  {
+    "abbreviation": "PROMDI",
+    "name": "Promdi Party‑list"
+  },
+  {
+    "abbreviation": "Pusong Pinoy",
+    "name": "Pusong Pinoy Party‑list"
+  },
+  {
+    "abbreviation": "Kusug Tausug",
+    "name": "Kusug Tausug Party‑list"
+  },
+  {
+    "abbreviation": "Damayang Filipino",
+    "name": "Damayang Filipino Party‑list"
+  },
+  {
+    "abbreviation": "MPBL",
+    "name": "Maharlika Pilipinas Basketball League Party‑list"
+  },
+  {
+    "abbreviation": "ANGAT",
+    "name": "Angat Party‑list"
+  },
+  {
+    "abbreviation": "Kalinga",
+    "name": "Kalinga Party‑list"
+  },
+  {
+    "abbreviation": "Boses Party‑list",
+    "name": "Boses Party‑list"
+  },
+  {
+    "abbreviation": "Arangkada Pilipino",
+    "name": "Arangkada Pilipino Party‑list"
+  },
+  {
+    "abbreviation": "Aangat Tayo",
+    "name": "Aangat Tayo Party‑list"
+  },
+  {
+    "abbreviation": "OFW",
+    "name": "Advocates and Keepers of Overseas Filipino Workers Party‑list"
+  },
+  {
+    "abbreviation": "BIDA KATAGUMPAY",
+    "name": "BIDA Katagumpay Party‑list"
+  },
+  {
+    "abbreviation": "KAMANGGAGAWA",
+    "name": "Kamanganggawa Party‑list"
+  },
+  {
+    "abbreviation": "BFF",
+    "name": "BFF Party‑list"
+  },
+  {
+    "abbreviation": "Bunyog",
+    "name": "Bunyog Party‑list"
+  },
+  {
+    "abbreviation": "AGRI",
+    "name": "AGRI Party‑list"
+  },
+  {
+    "abbreviation": "Senior Citizens",
+    "name": "Senior Citizens Party‑list"
+  },
+  {
+    "abbreviation": "4K",
+    "name": "4K Party‑list"
+  },
+  {
+    "abbreviation": "PBP",
+    "name": "PBP Party‑list"
+  },
+  {
+    "abbreviation": "One Coop",
+    "name": "One Coop Party‑list"
+  },
+  {
+    "abbreviation": "CIBAC",
+    "name": "CIBAC Party‑list"
+  },
+  {
+    "abbreviation": "BH",
+    "name": "Bagong Henerasyon Party‑list"
+  },
+  {
+    "abbreviation": "1AGILA",
+    "name": "1Agila Party‑list"
+  },
+  {
+    "abbreviation": "EDUAKSYON",
+    "name": "Eduksyon Party‑list"
+  },
+  {
+    "abbreviation": "Ang Tinig ng Seniors",
+    "name": "Ang Tinig ng Seniors Party‑list"
+  },
+  {
+    "abbreviation": "BG",
+    "name": "BG Party‑list"
+  },
+  {
+    "abbreviation": "Pinoy Ako",
+    "name": "Pinoy Ako Party‑list"
+  },
+  {
+    "abbreviation": "H.E.L.P. PILIPINAS",
+    "name": "H.E.L.P. PILIPINAS Party‑list"
+  },
+  {
+    "abbreviation": "Health Workers",
+    "name": "Health Workers Party‑list"
+  },
+  {
+    "abbreviation": "People's Champ",
+    "name": "People’s Champ Party‑list"
+  },
+  {
+    "abbreviation": "AA‑Kasosyo",
+    "name": "AA‑Kasosyo Party‑list"
+  },
+  {
+    "abbreviation": "Solid North Party",
+    "name": "Solid North Party‑list"
+  },
+  {
+    "abbreviation": "ABAMIN",
+    "name": "ABAMIN Party‑list"
+  },
+  {
+    "abbreviation": "TRABAHO",
+    "name": "Trabaho Party‑list"
+  },
+  {
+    "abbreviation": "ANGKASangga",
+    "name": "Angkasangga Party‑list"
+  },
+  {
+    "abbreviation": "TODA Aksyon",
+    "name": "TODA Aksyon Party‑list"
+  },
+  {
+    "abbreviation": "Turismo",
+    "name": "Turismo Party‑list"
+  },
+  {
+    "abbreviation": "Abono",
+    "name": "Abono Party‑list"
+  },
+  {
+    "abbreviation": "ASAP NA",
+    "name": "ASAP NA Party‑list"
+  },
+  {
+    "abbreviation": "LINGAP",
+    "name": "Lingap Party‑list"
+  },
+  {
+    "abbreviation": "United Frontliners",
+    "name": "United Frontliners Party‑list"
+  },
+  {
+    "abbreviation": "Kasambahay",
+    "name": "Kasambahay Tayo Party‑list"
+  },
+  {
+    "abbreviation": "Tutok To Win",
+    "name": "Tutok To Win Party‑list"
+  },
+  {
+    "abbreviation": "Ako OFW",
+    "name": "AKO OFW (Advocates & Keepers Organization of OFW)"
+  },
+  {
+    "abbreviation": "AGAP",
+    "name": "Agricultural Sector Alliance of the Philippines (AGAP)"
+  },
+  {
+    "abbreviation": "1TAHANAN",
+    "name": "1Tahanan Party‑list"
+  },
+  {
+    "abbreviation": "Coop‑NATCCO",
+    "name": "Coop‑NATCCO Party‑list"
+  },
+  {
+    "abbreviation": "KABAYAN",
+    "name": "Kabayan Party‑list"
+  },
+  {
+    "abbreviation": "1Munti",
+    "name": "1Munti Party‑list"
+  },
+  {
+    "abbreviation": "PINOY WORKERS",
+    "name": "Pinoy Workers Party‑list"
+  },
+  {
+    "abbreviation": "API Party",
+    "name": "API Party‑list"
+  },
+  {
+    "abbreviation": "Ako Bisaya",
+    "name": "Ako Bisaya Party‑list"
+  },
+  {
+    "abbreviation": "KAMALAYAN",
+    "name": "Kamalayan Party‑list"
+  },
+  {
+    "abbreviation": "Ako Tanod",
+    "name": "Ako Tanod Party‑list"
+  },
+  {
+    "abbreviation": "Probinsyano Ako",
+    "name": "Probinsyano Ako Party‑list"
+  },
+  {
+    "abbreviation": "KABABAIHAN",
+    "name": "Kababaihan Party‑list"
+  },
+  {
+    "abbreviation": "RAM",
+    "name": "RAM Party‑list"
+  },
+  {
+    "abbreviation": "ALONA",
+    "name": "Alona Party‑list"
+  },
+  {
+    "abbreviation": "Ako Bikol",
+    "name": "Ako Bikol Party‑list"
+  },
+  {
+    "abbreviation": "GP",
+    "name": "GP (Galing sa Puso) Party‑list"
+  },
+  {
+    "abbreviation": "KAUNLAD PINOY",
+    "name": "Kaunlad Pinoy Party‑list"
+  },
+  {
+    "abbreviation": "ABP",
+    "name": "ABP Party‑list"
+  },
+  {
+    "abbreviation": "CWS",
+    "name": "CWS Party‑list"
+  },
+  {
+    "abbreviation": "LPGMA",
+    "name": "LPGMA Party‑list"
+  },
+  {
+    "abbreviation": "A TEACHER",
+    "name": "A Teacher Party‑list"
+  },
+  {
+    "abbreviation": "SWERTE",
+    "name": "Swerte Party‑list"
+  },
+  {
+    "abbreviation": "Gabay",
+    "name": "Gabay Party‑list"
+  },
+  {
+    "abbreviation": "Malasakit@Bayanihan",
+    "name": "Malasakit@Bayanihan Party‑list"
+  },
+  {
+    "abbreviation": "Akay ni Sol",
+    "name": "Akay ni Sol Party‑list"
+  },
+  {
+    "abbreviation": "LUNAS",
+    "name": "Lunas Party‑list"
+  },
+  {
+    "abbreviation": "DIWA",
+    "name": "Diwa Party‑list"
+  },
+  {
+    "abbreviation": "PINUNO",
+    "name": "Pinuno Party‑list"
+  },
+  {
+    "abbreviation": "Pamilya Muna",
+    "name": "Pamilya Muna Party‑list"
+  },
+  {
+    "abbreviation": "Bagong Pilipinas",
+    "name": "Bagong Pilipinas Party‑list"
+  },
+  {
+    "abbreviation": "Hugpong Federal",
+    "name": "Hugpong Federal Party‑list"
+  },
+  {
+    "abbreviation": "Tupad",
+    "name": "Tupad Party‑list"
+  },
+  {
+    "abbreviation": "Lang Kawal",
+    "name": "Lang Kawal Party‑list"
+  },
+  {
+    "abbreviation": "Pamilya Ko",
+    "name": "Pamilya Ko Party‑list"
+  },
+  {
+    "abbreviation": "BBM",
+    "name": "BBM Party‑list"
+  },
+  {
+    "abbreviation": "Heal PH",
+    "name": "Heal PH Party‑list"
+  },
+  {
+    "abbreviation": "Abang Lingkod",
+    "name": "Abang Lingkod Party‑list"
+  },
+  {
+    "abbreviation": "MAGSASAKA",
+    "name": "Magsasaka Party‑list"
+  },
+  {
+    "abbreviation": "Maharlika",
+    "name": "Maharlika Party‑list"
+  },
+  {
+    "abbreviation": "Uswag Ilonggo",
+    "name": "Uswag Ilonggo Party‑list"
+  }
+]
